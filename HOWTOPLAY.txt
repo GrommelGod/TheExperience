@@ -1,0 +1,3 @@
+C'est un jeu de ludum dare. Il ne faut pas le prendre trop au sérieux.
+
+Clic gauche pour attraper un personnage "bouboule" ou attraper le drapeau pour déplacer les bouboules.
